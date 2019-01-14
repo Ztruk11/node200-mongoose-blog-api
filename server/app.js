@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 
 mongoose.connect(
-    'mongodb://127.0.0.1:27017/my-blog',
+    'mongodb://<Ztruk11>:<beBViFe9vah7nsH>@ds131973.mlab.com:31973/my-blog',
     { useNewUrlParser: true }
 );
 
